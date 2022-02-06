@@ -1,3 +1,4 @@
+```
 1. Install SQL:
 
 Inject database.sql Into your Database.
@@ -39,3 +40,4 @@ ALTER TABLE `characters`
 	ADD COLUMN `tags` LONGTEXT NULL DEFAULT '',
 	ADD COLUMN `gallery` LONGTEXT NULL DEFAULT ''
 ;
+```
